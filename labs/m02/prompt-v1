@@ -1,0 +1,6 @@
+`SEVERITY`: `P1`, `P2`, `P3` o `UNDETERMINED`;
+- `EVIDENCE`: solo hechos del caso y la política;
+- `MISSING_DATA`: información relevante ausente;
+- `NEXT_CHECK`: una única comprobación diagnóstica y reversible;
+- no afirmar una RCA si no está confirmada;
+- no recomendar reinicios, rollbacks ni cambios de configuración.
